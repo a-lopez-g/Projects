@@ -4,5 +4,5 @@ The repository includes:
 * Research, study and analysis of main scRNA-seq projects and data. 
 * Interpretable ML models for omics data (scRNA-seq, proteomics, multi-omics integration)
 * LLM-based frameworks for biological data interpretability and NLP in biomedical contexts
-* Projects in healthcare AI agents and data-driven dashboards providing actionable insights
+* Projects in healthcare NLP and data-driven dashboards providing actionable insights
 * Cybersecurity-inspired approaches to ensure robustness and reliability in biomedical AI pipelines
