@@ -1,0 +1,4 @@
+from src.entities.detect_out_of_place_opens_model import DetectOutOfPlaceOpensModel
+from src.services.index import cleanASRService, azureLLMService
+
+detectOutOfPlaceOpensModel = DetectOutOfPlaceOpensModel(embeddings_service=azureLLMService, clean_asr_service = cleanASRService)

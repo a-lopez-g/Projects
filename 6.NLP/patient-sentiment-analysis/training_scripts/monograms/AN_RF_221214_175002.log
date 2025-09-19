@@ -1,0 +1,309 @@
+INFO:root:Model: Random Forest
+INFO:root:Feature selection: ANOVA
+INFO:root:Experiment iterations = 50
+INFO:root:Date & time of execution = 2022/12/14 17:50:02
+INFO:root:Input samples = 1310
+INFO:root:Input features = 3530
+INFO:root:Labels: ['Negative', 'Neutral', 'Positive']
+INFO:root:EXPERIMENT ITERATION 1
+INFO:root:Nº features post-selection = 669
+INFO:root:Validation time = 724.91 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.839
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 280}
+INFO:root:Test score (OvR AUC) = 0.844
+INFO:root:EXPERIMENT ITERATION 2
+INFO:root:Nº features post-selection = 674
+INFO:root:Validation time = 728.02 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.828
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 280}
+INFO:root:Test score (OvR AUC) = 0.872
+INFO:root:EXPERIMENT ITERATION 3
+INFO:root:Nº features post-selection = 672
+INFO:root:Validation time = 717.18 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.838
+INFO:root:Best model parameters after validation = {'max_depth': 32, 'n_estimators': 490}
+INFO:root:Test score (OvR AUC) = 0.826
+INFO:root:EXPERIMENT ITERATION 4
+INFO:root:Nº features post-selection = 669
+INFO:root:Validation time = 719.14 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.835
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 410}
+INFO:root:Test score (OvR AUC) = 0.826
+INFO:root:EXPERIMENT ITERATION 5
+INFO:root:Nº features post-selection = 678
+INFO:root:Validation time = 728.20 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.835
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 390}
+INFO:root:Test score (OvR AUC) = 0.856
+INFO:root:EXPERIMENT ITERATION 6
+INFO:root:Nº features post-selection = 675
+INFO:root:Validation time = 726.59 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.838
+INFO:root:Best model parameters after validation = {'max_depth': 32, 'n_estimators': 110}
+INFO:root:Test score (OvR AUC) = 0.768
+INFO:root:EXPERIMENT ITERATION 7
+INFO:root:Nº features post-selection = 671
+INFO:root:Validation time = 722.63 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.842
+INFO:root:Best model parameters after validation = {'max_depth': 36, 'n_estimators': 200}
+INFO:root:Test score (OvR AUC) = 0.833
+INFO:root:EXPERIMENT ITERATION 8
+INFO:root:Nº features post-selection = 662
+INFO:root:Validation time = 719.44 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.844
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 350}
+INFO:root:Test score (OvR AUC) = 0.723
+INFO:root:EXPERIMENT ITERATION 9
+INFO:root:Nº features post-selection = 673
+INFO:root:Validation time = 724.69 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.829
+INFO:root:Best model parameters after validation = {'max_depth': 32, 'n_estimators': 360}
+INFO:root:Test score (OvR AUC) = 0.874
+INFO:root:EXPERIMENT ITERATION 10
+INFO:root:Nº features post-selection = 663
+INFO:root:Validation time = 721.16 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.844
+INFO:root:Best model parameters after validation = {'max_depth': 32, 'n_estimators': 270}
+INFO:root:Test score (OvR AUC) = 0.766
+INFO:root:EXPERIMENT ITERATION 11
+INFO:root:Nº features post-selection = 664
+INFO:root:Validation time = 719.62 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.831
+INFO:root:Best model parameters after validation = {'max_depth': 36, 'n_estimators': 150}
+INFO:root:Test score (OvR AUC) = 0.832
+INFO:root:EXPERIMENT ITERATION 12
+INFO:root:Nº features post-selection = 666
+INFO:root:Validation time = 720.15 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.844
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 400}
+INFO:root:Test score (OvR AUC) = 0.768
+INFO:root:EXPERIMENT ITERATION 13
+INFO:root:Nº features post-selection = 678
+INFO:root:Validation time = 731.55 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.831
+INFO:root:Best model parameters after validation = {'max_depth': 36, 'n_estimators': 470}
+INFO:root:Test score (OvR AUC) = 0.862
+INFO:root:EXPERIMENT ITERATION 14
+INFO:root:Nº features post-selection = 675
+INFO:root:Validation time = 731.02 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.838
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 410}
+INFO:root:Test score (OvR AUC) = 0.819
+INFO:root:EXPERIMENT ITERATION 15
+INFO:root:Nº features post-selection = 669
+INFO:root:Validation time = 721.25 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.836
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 320}
+INFO:root:Test score (OvR AUC) = 0.812
+INFO:root:EXPERIMENT ITERATION 16
+INFO:root:Nº features post-selection = 678
+INFO:root:Validation time = 729.33 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.839
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 340}
+INFO:root:Test score (OvR AUC) = 0.792
+INFO:root:EXPERIMENT ITERATION 17
+INFO:root:Nº features post-selection = 666
+INFO:root:Validation time = 720.66 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.836
+INFO:root:Best model parameters after validation = {'max_depth': 32, 'n_estimators': 120}
+INFO:root:Test score (OvR AUC) = 0.843
+INFO:root:EXPERIMENT ITERATION 18
+INFO:root:Nº features post-selection = 667
+INFO:root:Validation time = 726.17 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.843
+INFO:root:Best model parameters after validation = {'max_depth': 32, 'n_estimators': 320}
+INFO:root:Test score (OvR AUC) = 0.772
+INFO:root:EXPERIMENT ITERATION 19
+INFO:root:Nº features post-selection = 668
+INFO:root:Validation time = 726.07 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.837
+INFO:root:Best model parameters after validation = {'max_depth': 32, 'n_estimators': 430}
+INFO:root:Test score (OvR AUC) = 0.846
+INFO:root:EXPERIMENT ITERATION 20
+INFO:root:Nº features post-selection = 664
+INFO:root:Validation time = 721.96 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.841
+INFO:root:Best model parameters after validation = {'max_depth': 36, 'n_estimators': 280}
+INFO:root:Test score (OvR AUC) = 0.823
+INFO:root:EXPERIMENT ITERATION 21
+INFO:root:Nº features post-selection = 675
+INFO:root:Validation time = 724.63 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.837
+INFO:root:Best model parameters after validation = {'max_depth': 36, 'n_estimators': 440}
+INFO:root:Test score (OvR AUC) = 0.838
+INFO:root:EXPERIMENT ITERATION 22
+INFO:root:Nº features post-selection = 656
+INFO:root:Validation time = 716.12 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.842
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 390}
+INFO:root:Test score (OvR AUC) = 0.800
+INFO:root:EXPERIMENT ITERATION 23
+INFO:root:Nº features post-selection = 676
+INFO:root:Validation time = 728.60 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.837
+INFO:root:Best model parameters after validation = {'max_depth': 32, 'n_estimators': 310}
+INFO:root:Test score (OvR AUC) = 0.860
+INFO:root:EXPERIMENT ITERATION 24
+INFO:root:Nº features post-selection = 671
+INFO:root:Validation time = 721.78 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.843
+INFO:root:Best model parameters after validation = {'max_depth': 36, 'n_estimators': 300}
+INFO:root:Test score (OvR AUC) = 0.798
+INFO:root:EXPERIMENT ITERATION 25
+INFO:root:Nº features post-selection = 671
+INFO:root:Validation time = 720.80 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.835
+INFO:root:Best model parameters after validation = {'max_depth': 36, 'n_estimators': 280}
+INFO:root:Test score (OvR AUC) = 0.838
+INFO:root:EXPERIMENT ITERATION 26
+INFO:root:Nº features post-selection = 661
+INFO:root:Validation time = 718.18 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.840
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 280}
+INFO:root:Test score (OvR AUC) = 0.783
+INFO:root:EXPERIMENT ITERATION 27
+INFO:root:Nº features post-selection = 674
+INFO:root:Validation time = 724.72 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.840
+INFO:root:Best model parameters after validation = {'max_depth': 36, 'n_estimators': 360}
+INFO:root:Test score (OvR AUC) = 0.803
+INFO:root:EXPERIMENT ITERATION 28
+INFO:root:Nº features post-selection = 653
+INFO:root:Validation time = 710.70 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.834
+INFO:root:Best model parameters after validation = {'max_depth': 36, 'n_estimators': 400}
+INFO:root:Test score (OvR AUC) = 0.824
+INFO:root:EXPERIMENT ITERATION 29
+INFO:root:Nº features post-selection = 679
+INFO:root:Validation time = 730.54 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.830
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 320}
+INFO:root:Test score (OvR AUC) = 0.855
+INFO:root:EXPERIMENT ITERATION 30
+INFO:root:Nº features post-selection = 664
+INFO:root:Validation time = 730.85 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.840
+INFO:root:Best model parameters after validation = {'max_depth': 28, 'n_estimators': 460}
+INFO:root:Test score (OvR AUC) = 0.798
+INFO:root:EXPERIMENT ITERATION 31
+INFO:root:Nº features post-selection = 670
+INFO:root:Validation time = 720.58 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.835
+INFO:root:Best model parameters after validation = {'max_depth': 28, 'n_estimators': 330}
+INFO:root:Test score (OvR AUC) = 0.837
+INFO:root:EXPERIMENT ITERATION 32
+INFO:root:Nº features post-selection = 666
+INFO:root:Validation time = 719.73 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.836
+INFO:root:Best model parameters after validation = {'max_depth': 36, 'n_estimators': 350}
+INFO:root:Test score (OvR AUC) = 0.791
+INFO:root:EXPERIMENT ITERATION 33
+INFO:root:Nº features post-selection = 666
+INFO:root:Validation time = 720.51 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.836
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 390}
+INFO:root:Test score (OvR AUC) = 0.872
+INFO:root:EXPERIMENT ITERATION 34
+INFO:root:Nº features post-selection = 672
+INFO:root:Validation time = 722.03 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.833
+INFO:root:Best model parameters after validation = {'max_depth': 32, 'n_estimators': 400}
+INFO:root:Test score (OvR AUC) = 0.820
+INFO:root:EXPERIMENT ITERATION 35
+INFO:root:Nº features post-selection = 666
+INFO:root:Validation time = 722.03 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.841
+INFO:root:Best model parameters after validation = {'max_depth': 32, 'n_estimators': 410}
+INFO:root:Test score (OvR AUC) = 0.782
+INFO:root:EXPERIMENT ITERATION 36
+INFO:root:Nº features post-selection = 667
+INFO:root:Validation time = 717.77 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.842
+INFO:root:Best model parameters after validation = {'max_depth': 32, 'n_estimators': 370}
+INFO:root:Test score (OvR AUC) = 0.800
+INFO:root:EXPERIMENT ITERATION 37
+INFO:root:Nº features post-selection = 672
+INFO:root:Validation time = 722.00 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.836
+INFO:root:Best model parameters after validation = {'max_depth': 32, 'n_estimators': 390}
+INFO:root:Test score (OvR AUC) = 0.837
+INFO:root:EXPERIMENT ITERATION 38
+INFO:root:Nº features post-selection = 672
+INFO:root:Validation time = 721.28 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.835
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 490}
+INFO:root:Test score (OvR AUC) = 0.843
+INFO:root:EXPERIMENT ITERATION 39
+INFO:root:Nº features post-selection = 675
+INFO:root:Validation time = 723.77 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.836
+INFO:root:Best model parameters after validation = {'max_depth': 36, 'n_estimators': 360}
+INFO:root:Test score (OvR AUC) = 0.841
+INFO:root:EXPERIMENT ITERATION 40
+INFO:root:Nº features post-selection = 674
+INFO:root:Validation time = 723.22 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.833
+INFO:root:Best model parameters after validation = {'max_depth': 32, 'n_estimators': 290}
+INFO:root:Test score (OvR AUC) = 0.830
+INFO:root:EXPERIMENT ITERATION 41
+INFO:root:Nº features post-selection = 666
+INFO:root:Validation time = 717.47 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.840
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 480}
+INFO:root:Test score (OvR AUC) = 0.783
+INFO:root:EXPERIMENT ITERATION 42
+INFO:root:Nº features post-selection = 662
+INFO:root:Validation time = 719.15 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.837
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 370}
+INFO:root:Test score (OvR AUC) = 0.872
+INFO:root:EXPERIMENT ITERATION 43
+INFO:root:Nº features post-selection = 668
+INFO:root:Validation time = 720.05 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.838
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 430}
+INFO:root:Test score (OvR AUC) = 0.835
+INFO:root:EXPERIMENT ITERATION 44
+INFO:root:Nº features post-selection = 665
+INFO:root:Validation time = 719.16 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.834
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 470}
+INFO:root:Test score (OvR AUC) = 0.819
+INFO:root:EXPERIMENT ITERATION 45
+INFO:root:Nº features post-selection = 654
+INFO:root:Validation time = 716.17 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.843
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 470}
+INFO:root:Test score (OvR AUC) = 0.805
+INFO:root:EXPERIMENT ITERATION 46
+INFO:root:Nº features post-selection = 670
+INFO:root:Validation time = 719.65 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.834
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 390}
+INFO:root:Test score (OvR AUC) = 0.854
+INFO:root:EXPERIMENT ITERATION 47
+INFO:root:Nº features post-selection = 667
+INFO:root:Validation time = 720.19 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.842
+INFO:root:Best model parameters after validation = {'max_depth': 40, 'n_estimators': 330}
+INFO:root:Test score (OvR AUC) = 0.782
+INFO:root:EXPERIMENT ITERATION 48
+INFO:root:Nº features post-selection = 662
+INFO:root:Validation time = 716.59 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.839
+INFO:root:Best model parameters after validation = {'max_depth': 36, 'n_estimators': 410}
+INFO:root:Test score (OvR AUC) = 0.840
+INFO:root:EXPERIMENT ITERATION 49
+INFO:root:Nº features post-selection = 671
+INFO:root:Validation time = 721.69 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.840
+INFO:root:Best model parameters after validation = {'max_depth': 36, 'n_estimators': 450}
+INFO:root:Test score (OvR AUC) = 0.817
+INFO:root:EXPERIMENT ITERATION 50
+INFO:root:Nº features post-selection = 677
+INFO:root:Validation time = 729.20 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.837
+INFO:root:Best model parameters after validation = {'max_depth': 28, 'n_estimators': 460}
+INFO:root:Test score (OvR AUC) = 0.784
+INFO:root:Average validation score (OvR AUC) = 0.8375003518866564
+INFO:root:Average test score (OvR AUC) = 0.8199907135422901

@@ -1,0 +1,4 @@
+from src.entities.index import detectOutOfPlaceOpensModel
+from src.usecases.detect_out_of_place_opens_usecase import DetectOutOfPlaceOpensUsecase
+
+detect_out_of_place_opens_usecase = DetectOutOfPlaceOpensUsecase(clasification_model = detectOutOfPlaceOpensModel)

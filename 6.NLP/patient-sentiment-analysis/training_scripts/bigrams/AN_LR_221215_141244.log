@@ -1,0 +1,309 @@
+INFO:root:Model: Logistic Regression
+INFO:root:Feature selection: ANOVA
+INFO:root:Experiment iterations = 50
+INFO:root:Date & time of execution = 2022/12/15 14:12:44
+INFO:root:Input samples = 1310
+INFO:root:Input features = 4000
+INFO:root:Labels: ['Negative', 'Neutral', 'Positive']
+INFO:root:EXPERIMENT ITERATION 1
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 24.18 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.845
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.796
+INFO:root:EXPERIMENT ITERATION 2
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 22.49 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.847
+INFO:root:Best model parameters after validation = {'C': 0.15998587196060574}
+INFO:root:Test score (OvR AUC) = 0.754
+INFO:root:EXPERIMENT ITERATION 3
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 22.08 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.845
+INFO:root:Best model parameters after validation = {'C': 0.13894954943731375}
+INFO:root:Test score (OvR AUC) = 0.791
+INFO:root:EXPERIMENT ITERATION 4
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 22.38 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.846
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.784
+INFO:root:EXPERIMENT ITERATION 5
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 18.07 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.849
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.779
+INFO:root:EXPERIMENT ITERATION 6
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 18.25 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.847
+INFO:root:Best model parameters after validation = {'C': 0.15998587196060574}
+INFO:root:Test score (OvR AUC) = 0.778
+INFO:root:EXPERIMENT ITERATION 7
+INFO:root:Nº features post-selection = 800
+INFO:root:Validation time = 18.25 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.851
+INFO:root:Best model parameters after validation = {'C': 0.10481131341546852}
+INFO:root:Test score (OvR AUC) = 0.720
+INFO:root:EXPERIMENT ITERATION 8
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 17.83 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.851
+INFO:root:Best model parameters after validation = {'C': 0.10481131341546852}
+INFO:root:Test score (OvR AUC) = 0.757
+INFO:root:EXPERIMENT ITERATION 9
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 18.95 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.843
+INFO:root:Best model parameters after validation = {'C': 0.10481131341546852}
+INFO:root:Test score (OvR AUC) = 0.783
+INFO:root:EXPERIMENT ITERATION 10
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 18.02 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.854
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.786
+INFO:root:EXPERIMENT ITERATION 11
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 18.10 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.841
+INFO:root:Best model parameters after validation = {'C': 0.13894954943731375}
+INFO:root:Test score (OvR AUC) = 0.758
+INFO:root:EXPERIMENT ITERATION 12
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 18.30 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.851
+INFO:root:Best model parameters after validation = {'C': 0.10481131341546852}
+INFO:root:Test score (OvR AUC) = 0.752
+INFO:root:EXPERIMENT ITERATION 13
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 19.85 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.852
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.723
+INFO:root:EXPERIMENT ITERATION 14
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 18.15 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.850
+INFO:root:Best model parameters after validation = {'C': 0.18420699693267165}
+INFO:root:Test score (OvR AUC) = 0.790
+INFO:root:EXPERIMENT ITERATION 15
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 18.45 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.838
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.807
+INFO:root:EXPERIMENT ITERATION 16
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 18.28 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.854
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.717
+INFO:root:EXPERIMENT ITERATION 17
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 18.94 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.854
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.742
+INFO:root:EXPERIMENT ITERATION 18
+INFO:root:Nº features post-selection = 797
+INFO:root:Validation time = 20.36 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.841
+INFO:root:Best model parameters after validation = {'C': 0.10481131341546852}
+INFO:root:Test score (OvR AUC) = 0.843
+INFO:root:EXPERIMENT ITERATION 19
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 21.86 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.857
+INFO:root:Best model parameters after validation = {'C': 0.15998587196060574}
+INFO:root:Test score (OvR AUC) = 0.787
+INFO:root:EXPERIMENT ITERATION 20
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 17.77 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.845
+INFO:root:Best model parameters after validation = {'C': 0.15998587196060574}
+INFO:root:Test score (OvR AUC) = 0.753
+INFO:root:EXPERIMENT ITERATION 21
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 18.92 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.848
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.755
+INFO:root:EXPERIMENT ITERATION 22
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 20.05 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.842
+INFO:root:Best model parameters after validation = {'C': 0.09102981779915217}
+INFO:root:Test score (OvR AUC) = 0.775
+INFO:root:EXPERIMENT ITERATION 23
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 21.97 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.830
+INFO:root:Best model parameters after validation = {'C': 0.10481131341546852}
+INFO:root:Test score (OvR AUC) = 0.790
+INFO:root:EXPERIMENT ITERATION 24
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 24.99 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.848
+INFO:root:Best model parameters after validation = {'C': 0.10481131341546852}
+INFO:root:Test score (OvR AUC) = 0.763
+INFO:root:EXPERIMENT ITERATION 25
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 26.93 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.854
+INFO:root:Best model parameters after validation = {'C': 0.10481131341546852}
+INFO:root:Test score (OvR AUC) = 0.764
+INFO:root:EXPERIMENT ITERATION 26
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 19.47 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.845
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.777
+INFO:root:EXPERIMENT ITERATION 27
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 22.06 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.849
+INFO:root:Best model parameters after validation = {'C': 0.10481131341546852}
+INFO:root:Test score (OvR AUC) = 0.720
+INFO:root:EXPERIMENT ITERATION 28
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 21.91 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.839
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.762
+INFO:root:EXPERIMENT ITERATION 29
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 23.00 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.844
+INFO:root:Best model parameters after validation = {'C': 0.09102981779915217}
+INFO:root:Test score (OvR AUC) = 0.769
+INFO:root:EXPERIMENT ITERATION 30
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 18.59 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.842
+INFO:root:Best model parameters after validation = {'C': 0.10481131341546852}
+INFO:root:Test score (OvR AUC) = 0.769
+INFO:root:EXPERIMENT ITERATION 31
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 18.97 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.839
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.778
+INFO:root:EXPERIMENT ITERATION 32
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 21.27 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.856
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.726
+INFO:root:EXPERIMENT ITERATION 33
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 21.96 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.848
+INFO:root:Best model parameters after validation = {'C': 0.13894954943731375}
+INFO:root:Test score (OvR AUC) = 0.773
+INFO:root:EXPERIMENT ITERATION 34
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 21.79 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.839
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.799
+INFO:root:EXPERIMENT ITERATION 35
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 22.08 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.850
+INFO:root:Best model parameters after validation = {'C': 0.13894954943731375}
+INFO:root:Test score (OvR AUC) = 0.800
+INFO:root:EXPERIMENT ITERATION 36
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 18.25 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.840
+INFO:root:Best model parameters after validation = {'C': 0.13894954943731375}
+INFO:root:Test score (OvR AUC) = 0.789
+INFO:root:EXPERIMENT ITERATION 37
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 18.68 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.834
+INFO:root:Best model parameters after validation = {'C': 0.10481131341546852}
+INFO:root:Test score (OvR AUC) = 0.803
+INFO:root:EXPERIMENT ITERATION 38
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 21.21 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.842
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.794
+INFO:root:EXPERIMENT ITERATION 39
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 19.13 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.856
+INFO:root:Best model parameters after validation = {'C': 0.15998587196060574}
+INFO:root:Test score (OvR AUC) = 0.710
+INFO:root:EXPERIMENT ITERATION 40
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 19.07 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.854
+INFO:root:Best model parameters after validation = {'C': 0.13894954943731375}
+INFO:root:Test score (OvR AUC) = 0.744
+INFO:root:EXPERIMENT ITERATION 41
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 21.42 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.846
+INFO:root:Best model parameters after validation = {'C': 0.13894954943731375}
+INFO:root:Test score (OvR AUC) = 0.727
+INFO:root:EXPERIMENT ITERATION 42
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 21.37 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.845
+INFO:root:Best model parameters after validation = {'C': 0.10481131341546852}
+INFO:root:Test score (OvR AUC) = 0.775
+INFO:root:EXPERIMENT ITERATION 43
+INFO:root:Nº features post-selection = 800
+INFO:root:Validation time = 19.41 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.851
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.749
+INFO:root:EXPERIMENT ITERATION 44
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 20.51 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.851
+INFO:root:Best model parameters after validation = {'C': 0.10481131341546852}
+INFO:root:Test score (OvR AUC) = 0.771
+INFO:root:EXPERIMENT ITERATION 45
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 17.54 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.848
+INFO:root:Best model parameters after validation = {'C': 0.15998587196060574}
+INFO:root:Test score (OvR AUC) = 0.747
+INFO:root:EXPERIMENT ITERATION 46
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 17.96 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.836
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.780
+INFO:root:EXPERIMENT ITERATION 47
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 22.55 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.839
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.799
+INFO:root:EXPERIMENT ITERATION 48
+INFO:root:Nº features post-selection = 799
+INFO:root:Validation time = 18.99 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.844
+INFO:root:Best model parameters after validation = {'C': 0.10481131341546852}
+INFO:root:Test score (OvR AUC) = 0.808
+INFO:root:EXPERIMENT ITERATION 49
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 21.36 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.849
+INFO:root:Best model parameters after validation = {'C': 0.13894954943731375}
+INFO:root:Test score (OvR AUC) = 0.803
+INFO:root:EXPERIMENT ITERATION 50
+INFO:root:Nº features post-selection = 798
+INFO:root:Validation time = 19.33 seconds.
+INFO:root:Best validation score (OvR AUC) = 0.849
+INFO:root:Best model parameters after validation = {'C': 0.1206792640639329}
+INFO:root:Test score (OvR AUC) = 0.800
+INFO:root:Average validation score (OvR AUC) = 0.8463896901847359
+INFO:root:Average test score (OvR AUC) = 0.7704634501872754
