@@ -6,7 +6,9 @@ The repository includes:
 * LLM-based frameworks for biological data interpretability and NLP in biomedical contexts
 * Projects in healthcare NLP and data-driven dashboards providing actionable insights
 * Cybersecurity-inspired approaches to ensure robustness and reliability in biomedical AI pipelines
+  
 Particullary,
+
 * 1.State_of_art_scRNAseq contains the study of the main studies in scRNA-seq data with the objective of analyse them and find the best pipeline.
 * 2.Analysis_ML_scRNAseq contains the analysis of "Chemical-induced epigenome resetting for regeneration program activation in human cells. Wang et al., 2023, Cell Reports 42, 112547 June 27, 2023. https://doi.org/10.1016/j.celrep.2023.112547", the implementation of their pipeline, and new proposed pipelines which handle the data preprocessing, batch effect... and new ML/AI models based on PCA, clustering and community detection, in Python and using other tools as Liger. The conclusions and results are in the pptx.
 * 3.LLMs_scRNAseq contains experiments in scRNA-seq data using LLMs, from fine-tuning and inference to different approaches to get insights about the data.
